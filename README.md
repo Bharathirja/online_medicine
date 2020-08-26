@@ -1,4 +1,4 @@
-# online_medicine front end
+# online_medicine frontend(angular) and backend(django_rest_framework)
 
 npm install --save
 ng serve
